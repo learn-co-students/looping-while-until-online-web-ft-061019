@@ -5,5 +5,7 @@ def using_while
   puts "Wingardium Leviosa."
   end
 end
-
+def using_until 
+  puts "Wingardium Leviosa"
+end
 
